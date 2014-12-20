@@ -1,0 +1,21 @@
+{
+  "name": "monokai-lg",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An Atom syntax theme modified from monokai with major color in light green",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yinghau76/monokai-lg"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.39.0"
+  },
+  "readme": "# A Monokai theme with major color in light green\n\nA modified monokai syntax theme for Atom.\n\nOriginally copied from https://github.com/kevinsawicki/monokai",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/yinghau76/monokai-lg/issues"
+  },
+  "homepage": "https://github.com/yinghau76/monokai-lg",
+}
